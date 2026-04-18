@@ -26,6 +26,7 @@ BE Mechanical Engineer with 1 year experience at State Health Transport Departme
 | 6 | [ Subscription Segment Analysis](https://github.com/SanthoshRaj56501234/subscription-segment-analysis) | D2C revenue trend analysis by customer segment | R Shiny |
 | 7 | [ Airline Yield Prediction](https://github.com/SanthoshRaj56501234/airline-yield-prediction) | Random Forest yield prediction — 95% R² (Competition) | R, tidymodels |
 | 8 | [ Loan Default Prediction](https://github.com/SanthoshRaj56501234/loan-default-prediction) | XGBoost loan default risk with borrower segmentation | Python |
+| 9 | [🚌 TNSTC Dynamic Pricing](https://github.com/SanthoshRaj56501234/tnstc-dynamic-pricing) | Dynamic fare prediction for TNSTC Volvo buses across Tamil Nadu | R Shiny |
 
 ##  Contact
 -  santhoshrajs_41@bim.edu
